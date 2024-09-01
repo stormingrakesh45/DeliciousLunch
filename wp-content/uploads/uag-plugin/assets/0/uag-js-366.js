@@ -43,4 +43,7 @@ document.addEventListener("DOMContentLoaded", function(){ window.addEventListene
 window.addEventListener( 'load', function() {
 	UAGBButtonChild.init( '.uagb-block-93dfe43f' );
 });
+window.addEventListener( 'load', function() {
+	UAGBButtonChild.init( '.uagb-block-93dfe43f' );
+});
  });
